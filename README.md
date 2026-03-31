@@ -1,10 +1,6 @@
 # 👋 Salut, moi c'est Thibaut !
 
 ### Développeur FullStack · Passionné par l'IA, la Blockchain & les technologies innovantes
-
-> Du commercial au code. Après une expérience dans l'assurance, j'ai transformé ma passion pour le développement en carrière.  
-> J'allie expertise technique et vision métier pour créer des solutions qui font la différence.
-
 ---
 
 ## 🛠️ Stack technique
