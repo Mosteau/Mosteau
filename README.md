@@ -43,9 +43,9 @@
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mosteau&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact&theme=tokyonight&hide_border=true&locale=fr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mosteau&layout=compact&theme=tokyonight&hide_border=true&locale=fr)
 
 </div>
 
