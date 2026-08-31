@@ -46,20 +46,6 @@
 
 </div>
 
----
-
-## 🚀 Projets phares
-
-| Projet | Description | Stack |
-|--------|-------------|-------|
-| [🎓 Smartflow](https://smartflow-app.com) | Plateforme SaaS d'apprentissage par la méthode Leitner | Next.js · TypeScript · PostgreSQL · Prisma |
-| [👨‍👩‍👧 Family Legacy](https://familylegacy.vercel.app) | Préservation de l'héritage familial avec génération IA de livres de souvenirs | Next.js · TypeScript · PostgreSQL · IA |
-| [🏨 M. Hospitality Consulting](https://www.m-hospitality-consulting.com/fr) | Site vitrine multilingue pour consultant hôtelier | Next.js · Tailwind CSS · i18n · Shadcn/ui |
-| [⛓️ Blockchain](https://www.thibaut-mosteau.fr/blockchain) | Exploration de smart contracts | Solidity · Web3 |
-| [🤖 Modèle IA](https://www.thibaut-mosteau.fr/model-ia) | Modèle de prédiction de données en Machine Learning | Python · Scikit-learn |
-
----
-
 ## 💼 Parcours
 
 - 🏢 **Développeur FullStack en Alternance** — Motion4Ever *(2024-2025)*  
@@ -70,9 +56,3 @@
   Développement du SaaS Smartflow · Next.js · PostgreSQL
 - 🚀 **Formation Développeur Web** — Wild Code School Nantes *(2023-2024)*  
   React.js · Node.js · Architecture MVC · Méthode Agile/Scrum
-
----
-
-## 🌐 Me retrouver
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-thibaut--mosteau.fr-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://www.thibaut-mosteau.fr)
