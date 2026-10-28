@@ -1,4 +1,4 @@
-# 👋 Salut, moi c'est Thibaut !
+# 👋 Salut !
 
 ### Développeur FullStack · Passionné par l'IA, la Blockchain & les technologies innovantes
 ---
