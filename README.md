@@ -31,16 +31,3 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 💼 Parcours
-
-- 🏢 **Développeur FullStack en Alternance** — Motion4Ever *(2024-2025)*  
-  Vue/Nuxt.js 3, Drupal, Python, prédiction de charge de travail par IA
-- 🎓 **Ingénieur Informatique** — EPSI Nantes *(2024-2025)*  
-  Spécialisation Data Science & IA · Java Spring Boot · Vue.js 3
-- 💻 **Stagiaire Développeur** — TwentySoft *(2024)*  
-  Développement du SaaS Smartflow · Next.js · PostgreSQL
-- 🚀 **Formation Développeur Web** — Wild Code School Nantes *(2023-2024)*  
-  React.js · Node.js · Architecture MVC · Méthode Agile/Scrum
